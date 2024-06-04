@@ -48,13 +48,11 @@ _2020 to Present_
 - Implemented SEO best practices to enhance website visibility and search rankings.
 
 **Education:**
-</br>
 - Bachelor of Social Science in Economics,
 - National University of Bangladesh,
 - 2024 of Graduation
 
 **Certifications:**
-</br>
 - Certified JavaScript Developer,
 - PHP Certification,
 - Python Certification etc
