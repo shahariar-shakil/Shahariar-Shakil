@@ -24,12 +24,12 @@ Highly skilled and experienced web developer with a strong background in HTML, C
 
 ## Skills:
 
-- Web Development: HTML, CSS, JavaScript, TypeScript, PHP, Python
-- Frameworks & Libraries: Vue, React, Angular, Django, Laravel
-- Tools & Platforms: Git, Docker, AWS
-- Database Management: Firebase, MySQL, PostgreSQL, MongoDB
-- Version Control: Git, GitHub, GitLab
-- Soft Skills: Excellent communication, teamwork, problem-solving, time management
+- **Web Development:** HTML, CSS, JavaScript, TypeScript, PHP, Python
+- **Frameworks & Libraries:** Vue, React, Angular, Django, Laravel
+- **Tools & Platforms:** Git, Docker, AWS
+- **Database Management:** Firebase, MySQL, PostgreSQL, MongoDB
+- **Version Control:** Git, GitHub, GitLab
+- **Soft Skills:** Excellent communication, teamwork, problem-solving, time management
 
 ## Professional Experience:
 
