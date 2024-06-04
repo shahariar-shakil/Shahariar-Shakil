@@ -75,7 +75,5 @@ _2020 to Present_
 <!-- work experience section ends here  -->
 
 ---
-
 All rights reserved by Shahariar Shakil @2024
-
 ---
