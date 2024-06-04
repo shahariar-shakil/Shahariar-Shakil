@@ -70,8 +70,6 @@ _2020 to Present_
 | Application Developer  | Fiverr                     | April 2021 - Running | Tangail, Bangladesh |
 | WordPress & E-commerce | CodemanBD                  | Sep 2020 - Jan 2022  | Dhaka, Bangladesh   |
 | Former employer        | United Commercial Bank PLC | Apr 2022 – Jun 2022  | Tangail, Bangladesh |
-
-<br />
 <!-- work experience section ends here  -->
 
 ---
