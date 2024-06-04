@@ -1,22 +1,79 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarshakil2020&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarshakil2020" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriarshakil2020" alt="shahriarshakil2020" /></a> </p>
 
-- 🔭 I’m currently working on **Fiverr & Upwork**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap, Tailwind CSS**
+## Personal Information:
 
-- 📫 How to reach me **shahriarshakil500@gmail.com**
+**Name:** Shahariar Shakil
+**Location:** Bangladesh, South Asia
+**LinkedIn:** https://www.linkedin.com/in/shahriarshakil/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- about-me section starts here  -->
+
+## Professional Summary:
+
+<p align="justify">
+Highly skilled and experienced web developer with a strong background in HTML, CSS, JavaScript (JS), TypeScript (TS), PHP, and Python. Currently employed at an agency, I possess substantial industrial experience and a strong command of the English language. I am proficient in creating dynamic, user-friendly web applications and have a proven track record of delivering high-quality projects on time.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br />
+<!-- about-me section ends here  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarshakil2020&show_icons=true&locale=en&layout=compact" alt="shahriarshakil2020" /></p>
+<!-- web related skills section starts here  -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriarshakil2020&show_icons=true&locale=en" alt="shahriarshakil2020" /></p>
+## Skills:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarshakil2020&" alt="shahriarshakil2020" /></p>
+- Web Development: HTML, CSS, JavaScript, TypeScript, PHP, Python
+- Frameworks & Libraries: Vue, React, Angular, Django, Laravel
+- Tools & Platforms: Git, Docker, AWS
+- Database Management: Firebase, MySQL, PostgreSQL, MongoDB
+- Version Control: Git, GitHub, GitLab
+- Soft Skills: Excellent communication, teamwork, problem-solving, time management
+
+## Professional Experience:
+
+**CodemanBD It:**
+_Web Developer_
+2020 – Present
+
+- Developed and maintained responsive and interactive web applications using HTML, CSS
+  JavaScript, TypeScript, PHP, and Python.
+- Collaborated with designers, project managers, and other developers to ensure seamless
+  integration of new features and functionalities.
+- Conducted code reviews and provided constructive feedback to junior developers.
+- Participated in client meetings to gather requirements and deliver project updates.
+- Implemented SEO best practices to enhance website visibility and search rankings.
+
+**Education:**
+Bachelor of Social Science in Economics,
+National University of Bangladesh,
+2024 of Graduation
+
+**Certifications:**
+Certified JavaScript Developer, PHP Certification, Python Certification etc
+
+**Languages:**
+
+- English: Fluent
+<!-- web related skills section ends here  -->
+
+<!-- work experience section starts here  -->
+
+## Employment History
+
+| Position               | Institute                  | Duration             | Location            |
+| ---------------------- | -------------------------- | -------------------- | ------------------- |
+| High Level Programmer  | Upwork                     | May 2021 - Running   | Bangladesh, Asia    |
+| Application Developer  | Fiverr                     | April 2021 - Running | Tangail, Bangladesh |
+| WordPress & E-commerce | CodemanBD                  | Sep 2020 - Jan 2022  | Dhaka, Bangladesh   |
+| Former employer        | United Commercial Bank PLC | Apr 2022 – Jun 2022  | Tangail, Bangladesh |
+
+<br />
+<!-- work experience section ends here  -->
+
+---
+
+All rights reserved by Shahariar Shakil @2024
+
+---
