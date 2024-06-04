@@ -7,7 +7,9 @@
 </br>
 **Location:** Bangladesh, South Asia
 </br>
-**LinkedIn:** https://www.linkedin.com/in/shahriarshakil/
+**LinkedIn:** https://www.linkedin.com/in/shahriarshakil
+</br>
+**Facebook:** https://www.facebook.com/shahariarshakill
 
 <!-- about-me section starts here  -->
 
