@@ -7,7 +7,7 @@
 </br>
 **Location:** Bangladesh, South Asia
 </br>
-**LinkedIn:** https://www.linkedin.com/in/shahriarshakil
+**LinkedIn:** https://www.linkedin.com/in/shahariarshakil/
 </br>
 **Facebook:** https://www.facebook.com/shahariarshakill
 
@@ -33,9 +33,11 @@ Highly skilled and experienced web developer with a strong background in HTML, C
 
 ## Professional Experience:
 
-**CodemanBD It:**
-_Web Developer_
-2020 – Present
+**CodemanBD It Industry:**
+</br>
+_Web Developer,_
+</br>
+_2020 to Present_
 
 - Developed and maintained responsive and interactive web applications using HTML, CSS
   JavaScript, TypeScript, PHP, and Python.
