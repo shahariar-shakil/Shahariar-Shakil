@@ -17,9 +17,7 @@
 Highly skilled and experienced web developer with a strong background in HTML, CSS, JavaScript (JS), TypeScript (TS), PHP, and Python. Currently employed at an agency, I possess substantial industrial experience and a strong command of the English language. I am proficient in creating dynamic, user-friendly web applications and have a proven track record of delivering high-quality projects on time.
 </p>
 
-<br />
 <!-- about-me section ends here  -->
-
 <!-- web related skills section starts here  -->
 
 ## Skills:
