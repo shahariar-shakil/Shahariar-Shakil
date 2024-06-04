@@ -71,7 +71,10 @@ _2020 to Present_
 | WordPress & E-commerce | CodemanBD                  | Sep 2020 - Jan 2022  | Dhaka, Bangladesh   |
 | Former employer        | United Commercial Bank PLC | Apr 2022 – Jun 2022  | Tangail, Bangladesh |
 <!-- work experience section ends here  -->
+</br>
 
 ---
+
 All rights reserved by Shahariar Shakil @2024
+
 ---
