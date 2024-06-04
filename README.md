@@ -4,7 +4,9 @@
 ## Personal Information:
 
 **Name:** Shahariar Shakil
+</br>
 **Location:** Bangladesh, South Asia
+</br>
 **LinkedIn:** https://www.linkedin.com/in/shahriarshakil/
 
 <!-- about-me section starts here  -->
