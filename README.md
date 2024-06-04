@@ -77,9 +77,7 @@ _2020 to Present_
 </br>
 
 ## GitHub Lav:
-![](https://github-readme-stats.vercel.app/api?username=asif-daffodil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=asif-daffodil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-daffodil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
