@@ -62,7 +62,7 @@ _2020 to Present_
 <!-- web related skills section ends here  -->
 <!-- work experience section starts here  -->
 
-## Employment History
+## Employment History:
 
 | Position               | Institute                  | Duration             | Location            |
 | ---------------------- | -------------------------- | -------------------- | ------------------- |
