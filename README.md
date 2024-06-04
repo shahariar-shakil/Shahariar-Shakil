@@ -49,23 +49,23 @@ _2020 to Present_
 
 **Education:**
 </br>
-Bachelor of Social Science in Economics,
+- Bachelor of Social Science in Economics,
 </br>
-National University of Bangladesh,
+- National University of Bangladesh,
 </br>
-2024 of Graduation
+- 2024 of Graduation
 
 **Certifications:**
-Certified JavaScript Developer,
 </br>
-PHP Certification,
+- Certified JavaScript Developer,
 </br>
-Python Certification etc
+- PHP Certification,
+</br>
+- Python Certification etc
 
 **Languages:**
 - English: Fluent
 <!-- web related skills section ends here  -->
-
 <!-- work experience section starts here  -->
 
 ## Employment History
