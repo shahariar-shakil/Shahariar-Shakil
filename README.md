@@ -7,7 +7,7 @@
 </br>
 **Location:** Bangladesh, South Asia
 </br>
-**LinkedIn:** https://www.linkedin.com/in/shahariarshakil/
+**LinkedIn:** https://www.linkedin.com/in/shahariarshakil
 </br>
 **Facebook:** https://www.facebook.com/shahariarshakill
 
