@@ -58,7 +58,10 @@ _2020 to Present_
 **Certifications:**
 - Certified JavaScript Developer,
 - PHP Certification,
-- Python Certification etc
+- Python Certification
+- WordPress Certified
+- Git & GiThub Certification
+- Spoken English Certified
 
 **Languages:**
 - English: Fluent
