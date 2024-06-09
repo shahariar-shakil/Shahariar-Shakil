@@ -56,8 +56,8 @@ _2020 to Present_
 - 2024 of Graduation
 
 **Certifications:**
-- Certified JavaScript Developer,
-- PHP Certification,
+- Certified JavaScript Developer
+- PHP Certification
 - Python Certification
 - WordPress Certified
 - Git & GiThub Certification
